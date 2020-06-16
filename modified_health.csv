@@ -1,0 +1,1370 @@
+Age,Gender,Diabetes Status (Yes/No),Heart Disease (Yes/No),High Blood Pressure (Yes/No),Tobacco Use (Yes/No),Fruits & Vegetable Consumption,Exercise
+47,F,Yes,No,No,No,3 or 4,1
+35,F,No,No,No,No,1 or 2,1
+41,F,No,No,Yes,No,1 or 2,4
+56,M,No,No,No,No,1 or 2,0
+34,F,No,No,No,No,1 or 2,1
+29,F,No,No,No,No,1 or 2,0
+45,F,No,No,No,No,1 or 2,3
+18,F,No,No,No,No,0,0
+32,F,No,No,No,No,1 or 2,2
+53,M,No,No,Yes,No,1 or 2,>=5 days
+43,F,No,Yes,No,No,3 or 4,>=5 days
+22,F,No,No,No,No,1 or 2,1
+50,F,No,No,No,No,>=5,2
+46,F,No,No,No,No,1 or 2,>=5 days
+53,F,No,No,Yes,No,3 or 4,>=5 days
+66,F,No,No,No,No,1 or 2,>=5 days
+37,F,No,No,No,No,1 or 2,0
+50,F,Yes,No,Yes,No,1 or 2,3
+70,F,No,No,Yes,No,1 or 2,1
+36,F,Yes,No,No,No,3 or 4,1
+33,F,No,No,No,No,3 or 4,>=5 days
+64,F,No,No,No,No,1 or 2,4
+30,F,No,No,No,No,1 or 2,2
+63,F,Yes,No,Yes,No,3 or 4,1
+23,F,No,No,No,No,0,0
+38,F,No,No,No,No,3 or 4,2
+64,M,Yes,Yes,Yes,No,1 or 2,0
+25,F,No,No,No,No,1 or 2,4
+23,F,No,No,No,No,0,0
+50,F,Yes,No,Yes,No,Not Sure,1
+40,M,No,No,No,No,1 or 2,2
+34,F,No,Yes,Yes,No,3 or 4,>=5 days
+36,F,No,No,No,No,1 or 2,0
+53,F,Yes,No,Yes,No,1 or 2,0
+38,F,Yes,No,Yes,No,1 or 2,0
+71,M,Yes,No,Yes,No,1 or 2,2
+49,F,No,No,No,No,3 or 4,>=5 days
+81,F,Yes,No,Yes,No,1 or 2,4
+55,F,No,No,Yes,No,1 or 2,0
+52,F,Yes,No,Yes,No,3 or 4,2
+66,M,Yes,No,Yes,No,3 or 4,3
+31,F,No,No,Yes,No,1 or 2,1
+70,F,Yes,No,Yes,No,1 or 2,3
+24,F,No,No,No,No,1 or 2,0
+35,F,No,No,Yes,No,1 or 2,4
+57,F,Yes,No,No,No,3 or 4,3
+50,F,No,Yes,No,No,1 or 2,1
+57,F,Yes,No,No,No,1 or 2,0
+58,F,Yes,No,No,No,>=5,3
+31,F,Yes,No,No,No,3 or 4,>=5 days
+32,F,No,No,No,No,3 or 4,4
+46,M,Unknown,No,No,No,1 or 2,1
+62,F,Yes,No,No,Yes,1 or 2,2
+50,F,No,No,No,No,3 or 4,0
+75,F,Yes,Yes,Yes,No,1 or 2,3
+40,F,No,No,No,No,3 or 4,2
+74,M,Yes,Yes,Yes,No,1 or 2,>=5 days
+31,F,No,No,No,No,1 or 2,0
+60,F,Yes,No,Yes,No,3 or 4,0
+40,M,No,No,No,No,1 or 2,2
+58,F,No,Yes,No,No,1 or 2,>=5 days
+42,M,Yes,No,Yes,No,0,0
+78,F,No,No,Yes,No,3 or 4,3
+70,F,No,No,No,No,3 or 4,>=5 days
+58,F,No,No,Yes,No,1 or 2,1
+35,F,Yes,No,Yes,No,1 or 2,0
+54,M,Yes,No,No,No,1 or 2,4
+85,F,No,No,Yes,No,1 or 2,0
+68,F,No,No,Yes,No,3 or 4,4
+43,F,Yes,Yes,Yes,No,3 or 4,3
+39,M,Yes,No,No,Yes,3 or 4,>=5 days
+62,F,No,No,No,No,1 or 2,2
+42,F,No,No,No,No,1 or 2,4
+54,F,Yes,No,No,No,1 or 2,0
+77,F,Yes,No,No,No,3 or 4,2
+75,M,Yes,Yes,Yes,No,3 or 4,1
+43,F,No,No,No,No,3 or 4,4
+31,F,No,No,No,No,3 or 4,3
+64,F,Yes,No,No,No,1 or 2,1
+42,F,No,No,No,No,3 or 4,3
+30,F,No,No,No,No,>=5,>=5 days
+74,M,Yes,No,No,No,1 or 2,0
+73,F,No,No,Yes,No,>=5,4
+57,F,Yes,No,Yes,No,1 or 2,2
+50,F,No,No,Yes,No,1 or 2,>=5 days
+44,F,Yes,No,Yes,No,1 or 2,0
+66,F,Yes,No,Yes,No,1 or 2,0
+64,F,No,No,No,No,1 or 2,1
+70,M,Yes,No,No,No,1 or 2,>=5 days
+34,F,Yes,No,No,No,1 or 2,2
+33,F,No,No,No,No,3 or 4,>=5 days
+55,F,No,Yes,Yes,No,1 or 2,0
+50,F,No,No,No,No,3 or 4,4
+35,F,No,No,No,No,1 or 2,0
+44,F,No,No,No,No,1 or 2,0
+37,F,No,No,Yes,No,1 or 2,0
+51,M,Yes,No,Yes,No,1 or 2,2
+42,F,No,No,No,No,1 or 2,2
+51,F,Yes,No,Yes,No,1 or 2,0
+43,F,Yes,No,Yes,No,1 or 2,1
+42,M,Yes,No,No,No,3 or 4,0
+59,F,Yes,No,Yes,No,3 or 4,2
+50,F,Yes,No,No,Yes,1 or 2,1
+52,F,No,No,Yes,No,1 or 2,1
+87,F,Yes,No,Yes,No,>=5,3
+57,F,Yes,No,No,No,1 or 2,1
+64,F,Yes,No,Yes,No,1 or 2,0
+71,M,Yes,Yes,Yes,No,1 or 2,0
+70,F,Yes,No,No,No,>=5,3
+41,F,No,No,No,No,1 or 2,3
+69,F,No,No,No,No,3 or 4,0
+36,F,No,No,No,No,1 or 2,4
+31,F,No,No,No,No,1 or 2,4
+62,F,No,No,Yes,No,3 or 4,0
+40,F,No,No,No,No,1 or 2,3
+52,F,No,No,No,No,3 or 4,>=5 days
+28,F,No,No,No,No,1 or 2,0
+48,M,No,No,Yes,No,1 or 2,>=5 days
+37,F,No,No,No,No,1 or 2,4
+49,F,No,No,No,No,1 or 2,0
+32,F,No,No,No,No,>=5,>=5 days
+62,F,Yes,No,No,No,Not Sure,0
+56,F,Yes,No,No,No,1 or 2,1
+32,F,No,No,No,No,0,0
+43,F,Yes,No,Yes,No,1 or 2,0
+48,F,No,No,No,No,1 or 2,0
+22,F,No,No,No,No,3 or 4,3
+34,F,No,No,No,No,1 or 2,2
+35,F,No,No,No,No,1 or 2,0
+40,F,No,No,Yes,No,1 or 2,0
+19,F,No,No,No,No,3 or 4,1
+38,F,Yes,No,No,No,3 or 4,3
+48,M,No,No,No,No,1 or 2,1
+62,F,Yes,No,No,No,1 or 2,0
+35,F,No,No,No,No,1 or 2,2
+30,F,No,No,No,No,1 or 2,1
+73,M,Yes,No,Yes,No,3 or 4,4
+56,M,No,No,Yes,Yes,1 or 2,3
+36,F,No,No,No,No,1 or 2,2
+71,F,No,No,Yes,No,1 or 2,Not Sure
+53,F,Yes,No,Yes,No,>=5,2
+46,M,No,No,No,No,1 or 2,1
+40,F,No,No,No,No,1 or 2,>=5 days
+50,F,No,No,No,No,3 or 4,2
+42,F,No,No,No,Yes,3 or 4,2
+33,F,No,No,No,No,1 or 2,>=5 days
+46,F,Yes,No,No,No,3 or 4,2
+63,M,Yes,No,Yes,No,1 or 2,>=5 days
+39,F,No,No,No,No,1 or 2,0
+38,F,No,No,No,No,1 or 2,0
+72,F,Yes,No,Yes,No,1 or 2,0
+43,F,No,No,No,No,>=5,>=5 days
+50,F,No,No,No,No,1 or 2,2
+22,F,No,No,No,No,3 or 4,3
+41,M,No,No,No,Yes,1 or 2,4
+61,F,Yes,No,No,No,3 or 4,1
+28,F,No,No,No,No,1 or 2,2
+47,M,Yes,No,No,No,1 or 2,1
+47,M,Yes,No,No,No,0,0
+28,F,No,No,No,No,3 or 4,1
+30,F,No,No,No,No,1 or 2,3
+70,F,Yes,No,Yes,No,1 or 2,0
+53,F,Yes,No,No,No,>=5,4
+43,F,No,No,No,No,1 or 2,3
+48,F,No,No,Yes,No,3 or 4,>=5 days
+29,F,No,No,No,No,1 or 2,>=5 days
+83,F,No,Yes,Yes,No,3 or 4,1
+50,F,No,No,No,No,1 or 2,0
+32,F,No,No,No,No,3 or 4,2
+41,F,Yes,No,Yes,No,1 or 2,3
+64,F,No,No,No,No,1 or 2,1
+24,F,No,No,No,No,1 or 2,0
+49,F,Yes,No,No,No,0,0
+52,M,Yes,No,Yes,No,1 or 2,2
+63,F,Yes,No,Yes,No,3 or 4,0
+35,F,No,No,No,No,1 or 2,0
+58,M,No,No,Yes,No,>=5,>=5 days
+63,F,No,No,No,Yes,3 or 4,1
+29,F,No,No,No,No,0,0
+82,F,Yes,No,Yes,No,>=5,4
+39,F,Yes,No,No,No,1 or 2,2
+46,F,No,Yes,Yes,No,1 or 2,>=5 days
+55,F,Yes,No,Yes,No,1 or 2,3
+28,M,No,No,No,No,3 or 4,2
+77,F,No,No,No,No,1 or 2,4
+43,F,No,No,No,No,1 or 2,0
+60,F,Yes,No,Yes,No,1 or 2,>=5 days
+70,F,Yes,No,No,No,1 or 2,2
+27,F,No,No,No,No,3 or 4,>=5 days
+31,F,Yes,No,No,No,3 or 4,>=5 days
+62,M,No,No,No,No,3 or 4,2
+45,F,No,No,No,No,Not Sure,0
+56,F,No,No,No,No,>=5,>=5 days
+58,F,No,No,Yes,No,3 or 4,1
+32,F,Yes,No,No,No,1 or 2,4
+42,F,Yes,No,No,No,1 or 2,3
+55,F,No,No,No,No,1 or 2,3
+42,F,No,No,No,No,1 or 2,0
+20,F,No,No,No,No,3 or 4,0
+58,F,No,No,No,No,3 or 4,4
+58,M,Yes,No,Yes,No,1 or 2,1
+64,M,Yes,No,Yes,No,3 or 4,1
+34,F,No,No,No,Yes,1 or 2,2
+80,M,Yes,Yes,Yes,Yes,Not Sure,0
+75,F,No,No,No,No,3 or 4,3
+64,M,Yes,No,Yes,No,1 or 2,1
+59,M,Yes,No,Yes,No,3 or 4,2
+18,F,No,No,No,No,1 or 2,1
+64,F,Yes,No,Yes,No,1 or 2,>=5 days
+58,M,No,No,Yes,No,3 or 4,1
+42,F,No,No,No,No,1 or 2,4
+69,F,No,Yes,Yes,No,3 or 4,2
+50,F,Yes,No,No,No,3 or 4,>=5 days
+28,F,No,No,No,No,1 or 2,>=5 days
+37,M,Yes,No,No,No,3 or 4,3
+63,F,Yes,No,No,No,1 or 2,1
+60,M,No,No,No,No,1 or 2,4
+45,F,No,No,Yes,No,1 or 2,2
+68,F,Yes,No,No,No,3 or 4,4
+53,F,Yes,No,Yes,No,3 or 4,4
+45,F,No,No,No,No,1 or 2,2
+72,F,No,No,Yes,No,1 or 2,1
+27,M,Yes,No,No,Yes,Not Sure,0
+31,F,No,No,No,No,1 or 2,1
+38,F,No,No,No,No,3 or 4,>=5 days
+46,F,Yes,No,Yes,No,3 or 4,2
+61,F,No,No,Yes,No,3 or 4,0
+27,F,No,No,No,No,1 or 2,>=5 days
+52,F,No,No,No,No,3 or 4,>=5 days
+46,F,Yes,No,Yes,No,1 or 2,1
+67,F,Yes,Yes,Yes,No,3 or 4,4
+29,F,No,No,No,Yes,0,0
+48,F,Yes,No,Yes,No,1 or 2,>=5 days
+54,M,Yes,No,No,No,0,0
+26,F,No,No,No,No,Not Sure,2
+79,M,Yes,No,Yes,No,1 or 2,2
+39,F,Yes,No,No,No,1 or 2,>=5 days
+64,F,No,No,Yes,No,3 or 4,2
+60,M,Yes,No,Yes,No,1 or 2,>=5 days
+60,F,Yes,No,No,No,3 or 4,3
+26,F,No,No,No,No,3 or 4,2
+68,F,Yes,No,Yes,No,Not Sure,0
+65,F,Yes,No,Yes,No,>=5,4
+42,F,No,No,No,No,1 or 2,0
+49,F,Yes,No,Yes,No,1 or 2,2
+40,F,No,No,No,No,1 or 2,0
+51,M,Yes,No,No,No,0,0
+82,M,Yes,No,Yes,No,1 or 2,1
+52,M,No,No,No,Yes,1 or 2,2
+46,F,No,No,No,No,3 or 4,2
+24,F,No,No,No,No,1 or 2,0
+82,F,Yes,No,Yes,No,1 or 2,>=5 days
+37,F,No,No,No,No,1 or 2,2
+57,F,Yes,No,Yes,No,1 or 2,2
+53,F,No,No,No,No,3 or 4,2
+48,F,Yes,No,No,Yes,Not Sure,0
+59,F,No,No,No,No,3 or 4,1
+24,F,No,No,No,No,1 or 2,3
+32,F,No,No,No,Yes,1 or 2,>=5 days
+49,F,Yes,No,No,No,1 or 2,2
+64,F,No,No,Yes,No,1 or 2,2
+58,M,Yes,No,No,No,1 or 2,0
+47,F,No,No,No,No,1 or 2,0
+44,M,Yes,No,Yes,No,1 or 2,3
+60,F,No,Yes,No,No,1 or 2,0
+24,M,No,No,No,No,>=5,0
+59,F,Yes,No,Yes,No,1 or 2,1
+16,F,No,No,No,No,1 or 2,>=5 days
+30,F,No,No,No,No,1 or 2,1
+62,F,Yes,No,No,No,1 or 2,3
+62,F,Yes,No,Yes,No,3 or 4,2
+64,F,Yes,No,Yes,No,>=5,1
+64,M,Yes,No,Yes,No,1 or 2,4
+40,F,No,No,No,No,3 or 4,0
+46,M,No,No,No,No,1 or 2,3
+48,F,No,No,No,No,1 or 2,1
+31,M,Yes,No,Yes,No,1 or 2,1
+41,F,Yes,No,Yes,No,1 or 2,>=5 days
+36,F,No,No,No,No,1 or 2,1
+66,F,No,No,No,No,3 or 4,3
+36,F,Yes,No,No,No,3 or 4,2
+68,M,Yes,Yes,Yes,No,3 or 4,4
+68,F,No,No,Yes,No,1 or 2,2
+38,F,No,No,No,No,1 or 2,0
+24,F,No,No,No,No,3 or 4,2
+43,M,Yes,No,Yes,No,1 or 2,0
+37,F,Yes,No,No,No,1 or 2,3
+32,M,No,No,No,No,1 or 2,0
+45,F,Yes,No,No,No,1 or 2,0
+34,F,No,No,No,No,3 or 4,>=5 days
+65,F,Yes,No,Yes,No,1 or 2,1
+73,F,No,No,No,No,3 or 4,>=5 days
+72,M,No,No,No,No,1 or 2,3
+23,F,Yes,No,No,No,1 or 2,0
+41,F,No,No,No,No,3 or 4,4
+56,M,Yes,No,Yes,No,1 or 2,2
+56,F,Yes,No,Yes,No,1 or 2,0
+39,F,No,No,No,No,3 or 4,2
+44,F,Yes,No,No,No,3 or 4,>=5 days
+44,F,No,No,No,No,1 or 2,1
+75,F,Yes,No,Yes,No,1 or 2,>=5 days
+34,F,No,No,No,No,3 or 4,>=5 days
+66,F,Yes,No,No,No,1 or 2,3
+31,F,No,No,No,No,>=5,1
+30,F,Yes,No,Yes,No,1 or 2,1
+43,F,No,No,No,No,0,0
+30,F,No,No,No,No,3 or 4,3
+66,F,No,No,Yes,No,0,0
+42,M,Yes,No,No,No,1 or 2,0
+52,F,No,Yes,Yes,No,1 or 2,0
+67,F,Yes,No,Yes,No,1 or 2,0
+47,F,No,No,Yes,No,1 or 2,0
+58,F,Yes,Yes,Yes,No,1 or 2,3
+33,F,No,No,No,No,1 or 2,0
+40,M,Yes,No,No,No,1 or 2,2
+32,F,No,No,No,No,1 or 2,1
+45,M,No,No,No,No,3 or 4,1
+18,M,No,No,No,No,1 or 2,0
+56,F,Yes,No,Yes,Yes,>=5,4
+42,F,Yes,No,Yes,No,3 or 4,4
+82,F,No,No,Yes,No,3 or 4,3
+54,F,Yes,No,Yes,No,0,0
+40,F,No,No,Yes,No,1 or 2,0
+54,M,Yes,No,No,No,3 or 4,3
+28,F,No,No,No,Yes,>=5,3
+47,F,No,No,No,No,3 or 4,0
+28,F,No,No,No,No,0,1
+61,F,Yes,Yes,Yes,No,3 or 4,4
+83,F,No,No,No,No,>=5,4
+68,F,Yes,No,No,No,1 or 2,>=5 days
+45,M,Yes,No,Yes,No,1 or 2,1
+62,F,Yes,Yes,Yes,Yes,3 or 4,1
+18,F,No,No,No,No,1 or 2,1
+47,M,Yes,No,No,No,1 or 2,Not Sure
+63,F,Yes,No,Yes,No,1 or 2,3
+63,F,Yes,No,Yes,No,3 or 4,0
+72,F,Yes,No,No,No,1 or 2,1
+69,F,No,No,Yes,No,1 or 2,2
+71,F,Yes,Yes,Yes,No,1 or 2,4
+57,M,Yes,Yes,Yes,No,>=5,0
+54,F,Yes,No,Yes,No,1 or 2,1
+56,F,Yes,No,Yes,Yes,>=5,4
+31,F,No,No,No,No,1 or 2,2
+69,M,Yes,No,No,No,1 or 2,>=5 days
+54,F,No,No,No,No,1 or 2,>=5 days
+64,M,Yes,No,Yes,Yes,1 or 2,2
+38,F,Yes,No,No,No,1 or 2,3
+38,F,No,No,Yes,No,1 or 2,2
+56,F,Yes,No,No,No,1 or 2,1
+68,M,No,No,No,No,1 or 2,4
+40,F,No,No,No,No,1 or 2,2
+46,F,No,No,No,No,1 or 2,3
+47,F,Yes,No,No,No,>=5,0
+27,F,No,No,No,No,1 or 2,3
+72,F,No,No,No,No,1 or 2,2
+77,F,No,No,Yes,No,1 or 2,3
+39,F,No,No,No,No,1 or 2,1
+48,F,Yes,No,Yes,No,1 or 2,1
+51,F,No,No,Yes,Yes,1 or 2,2
+64,F,Yes,No,Yes,No,1 or 2,1
+53,F,Yes,No,No,No,1 or 2,2
+52,F,No,No,No,No,>=5,>=5 days
+70,F,Yes,Yes,Yes,No,1 or 2,1
+57,F,Yes,No,Yes,No,1 or 2,1
+77,F,No,No,Yes,No,3 or 4,>=5 days
+32,F,No,No,No,No,0,0
+39,F,No,No,No,No,1 or 2,1
+49,F,No,No,No,No,1 or 2,2
+41,F,No,No,No,No,1 or 2,2
+62,M,Yes,No,No,No,1 or 2,0
+66,M,Yes,No,No,No,0,2
+31,F,No,No,Yes,No,1 or 2,3
+35,F,No,No,No,No,1 or 2,3
+47,F,No,No,No,No,3 or 4,3
+23,F,No,Yes,No,No,3 or 4,1
+45,F,No,No,No,No,1 or 2,3
+33,M,No,No,No,No,1 or 2,>=5 days
+45,F,No,No,No,No,1 or 2,1
+39,F,No,No,No,No,1 or 2,4
+81,F,No,No,No,No,1 or 2,0
+30,F,No,No,No,No,1 or 2,3
+34,F,Unknown,No,No,No,3 or 4,2
+40,M,No,No,No,Yes,1 or 2,3
+37,F,No,No,No,No,3 or 4,>=5 days
+54,F,No,No,No,No,3 or 4,>=5 days
+33,F,Yes,No,No,No,1 or 2,2
+60,M,Yes,No,Yes,No,3 or 4,2
+27,F,Yes,No,Yes,No,1 or 2,1
+37,F,No,Yes,No,No,1 or 2,>=5 days
+77,F,Yes,Yes,Yes,No,1 or 2,2
+79,F,Yes,Yes,Yes,No,3 or 4,0
+44,F,Yes,No,Yes,No,1 or 2,1
+63,F,Yes,No,Yes,No,>=5,3
+32,F,No,No,No,No,3 or 4,2
+52,M,No,No,No,No,3 or 4,>=5 days
+44,F,No,No,No,No,1 or 2,2
+65,F,Yes,No,Yes,Yes,1 or 2,0
+38,F,No,No,No,No,1 or 2,2
+59,F,Yes,No,Yes,Yes,0,0
+42,F,Yes,No,No,Yes,1 or 2,1
+50,M,Yes,No,Yes,Yes,1 or 2,4
+82,M,Yes,No,Yes,No,1 or 2,2
+53,F,Yes,Yes,Yes,No,1 or 2,1
+32,F,No,No,No,No,3 or 4,2
+60,F,Yes,No,No,Yes,0,2
+38,F,Yes,No,No,No,1 or 2,0
+71,F,Yes,No,Yes,No,1 or 2,1
+31,F,No,No,No,No,1 or 2,0
+38,F,Yes,No,No,No,1 or 2,0
+42,F,No,No,Yes,No,3 or 4,1
+63,M,No,No,Yes,Yes,1 or 2,0
+75,M,Yes,No,No,No,3 or 4,2
+58,F,Yes,Yes,Yes,No,3 or 4,>=5 days
+56,F,No,No,No,No,3 or 4,0
+66,M,No,No,Yes,No,1 or 2,2
+72,F,Yes,No,Yes,No,1 or 2,0
+39,F,No,Yes,Yes,No,3 or 4,2
+41,F,No,No,No,No,3 or 4,3
+49,F,Yes,No,No,No,1 or 2,0
+40,F,No,Yes,Yes,No,3 or 4,2
+31,F,No,No,No,No,1 or 2,0
+41,F,Yes,No,Yes,No,1 or 2,1
+37,F,Yes,No,No,No,1 or 2,2
+47,F,Yes,No,No,No,1 or 2,2
+52,F,Yes,No,No,No,3 or 4,>=5 days
+55,F,No,No,No,No,1 or 2,>=5 days
+44,F,Yes,No,No,No,1 or 2,3
+60,F,No,No,Yes,Yes,3 or 4,1
+43,F,Yes,No,Yes,No,>=5,2
+32,F,Yes,No,No,No,1 or 2,4
+46,F,Yes,No,No,No,1 or 2,0
+42,F,Yes,No,No,No,Not Sure,2
+64,F,No,No,Yes,No,3 or 4,4
+38,F,No,No,No,No,1 or 2,1
+48,F,Yes,No,No,No,1 or 2,1
+56,F,Yes,No,No,No,>=5,2
+78,F,Yes,No,No,No,1 or 2,2
+44,F,Yes,No,Yes,No,1 or 2,0
+32,F,No,No,No,No,1 or 2,2
+52,F,No,No,No,No,3 or 4,0
+42,F,No,No,No,No,0,2
+36,F,No,No,No,No,1 or 2,2
+45,F,No,No,Yes,No,0,0
+52,F,Yes,No,No,No,1 or 2,0
+61,F,Yes,No,Yes,No,0,0
+25,F,No,No,No,No,1 or 2,2
+35,F,No,No,No,No,1 or 2,2
+28,F,No,No,No,No,1 or 2,0
+37,F,Yes,No,No,No,0,2
+40,F,No,No,No,No,1 or 2,2
+30,F,No,No,No,No,3 or 4,1
+20,F,No,No,No,No,1 or 2,2
+55,F,No,No,No,No,3 or 4,>=5 days
+68,F,No,No,Yes,No,3 or 4,0
+45,F,No,No,No,No,1 or 2,2
+77,F,No,No,No,No,0,2
+81,F,Yes,No,No,No,3 or 4,0
+71,F,No,No,Yes,No,1 or 2,>=5 days
+30,F,No,No,No,No,3 or 4,1
+53,F,No,No,No,Yes,1 or 2,1
+69,F,No,No,No,No,>=5,>=5 days
+33,F,No,No,No,No,1 or 2,3
+48,F,No,No,No,Yes,3 or 4,>=5 days
+49,F,No,No,Yes,No,1 or 2,2
+59,F,Yes,No,No,No,1 or 2,2
+37,F,No,No,No,No,1 or 2,2
+29,F,No,No,No,No,1 or 2,0
+29,F,Yes,No,No,No,1 or 2,>=5 days
+54,F,Yes,No,No,No,3 or 4,0
+39,F,No,No,No,No,1 or 2,0
+68,F,No,No,Yes,No,3 or 4,2
+55,M,Yes,Yes,Yes,Yes,3 or 4,3
+52,F,Unknown,No,No,No,1 or 2,0
+66,F,Yes,No,Yes,No,1 or 2,3
+58,F,No,No,No,No,1 or 2,0
+22,M,No,No,No,No,1 or 2,>=5 days
+63,M,Yes,No,Yes,No,1 or 2,0
+32,F,Unknown,No,Yes,No,3 or 4,3
+33,F,No,No,Yes,No,1 or 2,1
+46,F,No,No,No,No,3 or 4,>=5 days
+68,F,No,No,Yes,Yes,1 or 2,0
+41,F,No,No,No,No,1 or 2,4
+51,F,No,No,Yes,No,0,1
+36,F,Yes,No,No,No,1 or 2,4
+58,F,No,No,Yes,No,3 or 4,0
+28,F,No,No,No,No,3 or 4,4
+33,F,No,No,No,No,>=5,>=5 days
+45,F,Yes,No,No,No,1 or 2,2
+89,M,No,No,Yes,No,1 or 2,>=5 days
+66,M,Yes,Yes,Yes,No,1 or 2,2
+40,F,No,No,No,No,1 or 2,0
+38,F,No,No,No,No,>=5,>=5 days
+37,F,No,No,No,No,1 or 2,>=5 days
+45,M,No,No,No,No,3 or 4,1
+65,F,No,No,Yes,No,0,1
+39,F,No,No,No,No,1 or 2,0
+43,M,Yes,No,Yes,No,1 or 2,1
+56,F,Yes,No,Yes,No,1 or 2,0
+52,F,Yes,No,Yes,No,3 or 4,4
+30,F,No,No,No,No,1 or 2,4
+26,F,No,No,No,No,1 or 2,1
+57,M,Yes,Yes,Yes,No,3 or 4,2
+35,F,No,Yes,Yes,No,1 or 2,>=5 days
+38,F,No,No,No,No,0,1
+63,F,No,No,No,No,3 or 4,1
+51,M,Yes,Yes,Yes,Yes,>=5,>=5 days
+58,F,Yes,No,Yes,Yes,1 or 2,1
+52,F,No,No,Yes,Yes,1 or 2,2
+49,F,Yes,No,No,No,3 or 4,4
+64,F,Yes,No,No,No,1 or 2,1
+75,F,Yes,No,Yes,No,1 or 2,1
+50,M,No,No,No,No,3 or 4,>=5 days
+51,F,Yes,No,No,No,1 or 2,2
+43,F,Yes,No,No,No,>=5,0
+36,F,No,No,No,No,1 or 2,2
+53,F,Yes,No,Yes,No,1 or 2,4
+47,F,No,No,No,No,3 or 4,1
+39,F,No,No,No,No,0,0
+65,F,Yes,No,No,Yes,3 or 4,0
+44,M,Yes,Yes,No,No,1 or 2,2
+37,F,Yes,No,No,No,3 or 4,2
+28,F,No,No,No,No,1 or 2,2
+34,F,No,No,No,No,1 or 2,4
+39,F,No,No,No,No,1 or 2,2
+53,F,Yes,No,Yes,No,1 or 2,0
+41,F,No,No,No,No,1 or 2,0
+59,F,Yes,No,Yes,No,3 or 4,4
+63,M,Yes,No,Yes,No,3 or 4,0
+36,F,No,No,No,No,3 or 4,>=5 days
+56,F,No,No,No,No,>=5,>=5 days
+45,F,No,No,Yes,Yes,1 or 2,1
+54,M,Yes,No,No,No,1 or 2,1
+35,F,Yes,No,No,No,3 or 4,3
+62,M,Yes,No,No,No,3 or 4,1
+30,F,No,No,No,No,1 or 2,0
+54,M,Yes,No,No,No,>=5,2
+58,F,No,No,No,Yes,1 or 2,>=5 days
+51,F,Yes,No,No,No,3 or 4,2
+46,F,No,No,No,No,3 or 4,4
+28,F,No,No,No,No,1 or 2,3
+74,M,No,Yes,Yes,No,1 or 2,>=5 days
+48,F,Yes,No,Yes,No,3 or 4,>=5 days
+44,F,No,No,No,Yes,3 or 4,0
+52,F,Yes,No,Yes,Yes,1 or 2,1
+70,M,No,No,No,No,1 or 2,>=5 days
+28,F,No,No,No,No,1 or 2,1
+44,F,Yes,No,No,No,>=5,3
+41,F,No,No,No,No,3 or 4,0
+49,F,No,No,No,No,1 or 2,1
+34,F,No,No,No,No,1 or 2,0
+56,F,No,No,Yes,No,1 or 2,0
+67,F,Yes,No,No,No,1 or 2,4
+23,F,No,No,No,No,1 or 2,1
+43,F,No,No,No,No,3 or 4,1
+46,F,No,No,Yes,No,1 or 2,1
+59,F,No,No,No,No,1 or 2,1
+74,M,No,No,No,No,1 or 2,0
+33,F,No,No,Yes,No,1 or 2,>=5 days
+36,F,Yes,No,Yes,No,3 or 4,3
+47,F,No,No,No,No,1 or 2,2
+67,F,Yes,No,Yes,No,1 or 2,2
+60,M,No,No,No,No,1 or 2,1
+57,F,Yes,No,Yes,No,1 or 2,1
+64,F,No,No,No,No,1 or 2,4
+60,F,Yes,No,Yes,No,1 or 2,0
+62,M,No,No,No,No,1 or 2,1
+60,M,Yes,No,Yes,Yes,1 or 2,4
+39,F,No,No,Yes,No,1 or 2,4
+79,F,Yes,No,Yes,No,3 or 4,2
+28,F,No,No,No,No,1 or 2,0
+45,F,No,No,No,No,1 or 2,0
+57,F,No,No,No,No,3 or 4,>=5 days
+53,F,No,No,Yes,No,1 or 2,0
+40,F,Yes,No,No,No,1 or 2,2
+45,F,No,No,No,No,1 or 2,1
+33,F,No,No,No,No,1 or 2,0
+49,F,No,No,No,No,>=5,0
+30,F,No,No,No,No,1 or 2,0
+49,F,No,No,No,No,3 or 4,1
+57,F,No,No,Yes,No,Not Sure,3
+43,F,No,Yes,Yes,No,1 or 2,1
+38,F,Yes,No,No,No,1 or 2,1
+73,F,No,No,No,No,1 or 2,>=5 days
+30,F,No,No,No,No,3 or 4,3
+42,F,No,No,No,No,1 or 2,0
+39,F,Yes,Yes,No,No,3 or 4,0
+42,M,No,No,No,No,1 or 2,0
+33,M,Yes,No,No,No,3 or 4,2
+29,F,No,No,No,No,1 or 2,2
+60,F,No,No,Yes,No,0,1
+79,F,Yes,No,Yes,No,1 or 2,4
+45,M,Yes,No,Yes,No,1 or 2,>=5 days
+39,F,Yes,No,No,No,1 or 2,2
+25,M,No,No,No,No,1 or 2,1
+52,F,No,No,No,No,1 or 2,0
+36,M,Yes,No,No,No,3 or 4,3
+38,F,No,No,No,No,1 or 2,>=5 days
+56,M,Yes,No,Yes,Yes,1 or 2,0
+34,F,No,No,No,No,1 or 2,1
+32,F,No,No,No,No,3 or 4,0
+52,F,No,No,No,No,0,0
+51,M,Yes,No,Yes,Yes,1 or 2,>=5 days
+61,F,No,No,No,No,>=5,4
+66,F,Yes,No,No,No,3 or 4,1
+69,F,Yes,No,Yes,No,3 or 4,3
+63,F,Yes,No,Yes,No,3 or 4,0
+63,F,No,No,Yes,No,1 or 2,0
+59,M,Yes,No,Yes,No,0,>=5 days
+81,M,No,No,No,No,1 or 2,>=5 days
+51,F,No,No,Yes,No,3 or 4,>=5 days
+33,F,No,No,No,No,0,0
+32,F,No,No,No,No,3 or 4,0
+67,F,Yes,No,Yes,Yes,1 or 2,3
+47,M,Yes,No,No,No,3 or 4,3
+46,M,No,No,No,Yes,>=5,0
+76,F,Yes,No,Yes,No,3 or 4,2
+63,M,Yes,No,Yes,No,1 or 2,0
+41,F,No,No,No,No,1 or 2,3
+63,F,No,No,Yes,No,1 or 2,3
+38,F,No,No,No,No,1 or 2,2
+53,F,No,No,No,No,1 or 2,2
+36,F,No,No,No,No,1 or 2,4
+25,F,No,No,No,No,1 or 2,1
+61,F,Yes,No,Yes,No,1 or 2,1
+49,F,No,No,No,No,1 or 2,2
+59,F,No,No,No,No,1 or 2,4
+45,F,Yes,No,No,No,1 or 2,2
+31,F,No,No,No,No,>=5,3
+35,F,No,No,No,No,3 or 4,2
+51,F,No,No,Yes,No,1 or 2,0
+55,M,No,No,No,No,0,0
+36,F,No,No,No,No,1 or 2,1
+52,F,No,Yes,Yes,No,>=5,>=5 days
+68,M,No,No,No,No,1 or 2,4
+38,F,Yes,No,No,No,3 or 4,1
+28,F,No,No,No,No,1 or 2,0
+37,M,No,No,Yes,No,1 or 2,0
+33,F,No,No,No,No,1 or 2,0
+30,F,No,No,No,No,1 or 2,1
+54,F,Unknown,No,Yes,No,>=5,4
+50,F,Yes,No,No,No,1 or 2,2
+57,M,No,No,Yes,No,>=5,>=5 days
+45,M,No,No,No,No,1 or 2,0
+81,M,Yes,Yes,Yes,No,3 or 4,4
+68,M,No,No,No,No,1 or 2,4
+63,F,Yes,No,Yes,No,1 or 2,2
+20,M,No,No,No,No,1 or 2,1
+36,F,No,Yes,No,No,3 or 4,4
+52,F,Yes,No,No,No,1 or 2,1
+51,F,Yes,No,No,No,1 or 2,1
+55,F,Yes,No,No,No,3 or 4,0
+71,F,No,Yes,Yes,No,3 or 4,3
+26,F,No,No,No,No,Not Sure,0
+42,F,No,No,No,No,1 or 2,0
+26,F,No,No,No,No,1 or 2,0
+45,F,Yes,No,No,No,1 or 2,0
+35,F,No,No,No,No,>=5,0
+61,F,Yes,Yes,Yes,No,>=5,>=5 days
+42,F,Yes,No,Yes,No,3 or 4,3
+68,F,No,No,Yes,No,1 or 2,1
+39,F,Yes,No,No,No,3 or 4,3
+51,F,Yes,No,Yes,No,1 or 2,2
+56,F,Yes,No,Yes,No,1 or 2,1
+31,F,No,No,No,No,1 or 2,0
+62,M,Yes,No,Yes,No,0,3
+48,F,No,No,No,No,3 or 4,3
+34,F,Yes,No,No,No,>=5,>=5 days
+63,F,Yes,No,Yes,No,3 or 4,1
+25,F,No,No,No,No,1 or 2,0
+66,F,Yes,No,No,No,3 or 4,>=5 days
+61,M,No,No,No,No,>=5,Not Sure
+46,F,Yes,No,No,No,1 or 2,2
+75,F,No,No,Yes,No,1 or 2,2
+74,M,Yes,No,Yes,No,1 or 2,1
+56,F,Yes,No,No,No,1 or 2,1
+56,F,No,No,No,No,1 or 2,0
+63,F,Yes,No,Yes,No,3 or 4,2
+42,F,Yes,Yes,Yes,No,1 or 2,3
+27,F,No,No,No,No,1 or 2,1
+67,M,Yes,No,Yes,Yes,1 or 2,>=5 days
+37,F,No,No,No,No,1 or 2,0
+69,F,Yes,Yes,Yes,No,1 or 2,1
+59,F,Yes,Yes,Yes,Yes,3 or 4,0
+60,F,Yes,No,Yes,No,1 or 2,0
+62,F,No,No,No,No,1 or 2,2
+26,F,No,No,No,No,3 or 4,3
+44,F,Yes,Yes,No,No,3 or 4,>=5 days
+55,F,No,No,No,No,3 or 4,1
+50,M,Yes,Yes,Yes,No,1 or 2,4
+86,F,No,No,No,No,1 or 2,3
+21,F,No,No,Yes,No,1 or 2,3
+62,F,Yes,No,Yes,No,1 or 2,0
+46,F,No,No,No,No,1 or 2,3
+42,F,No,No,No,No,1 or 2,1
+57,F,No,No,Yes,No,3 or 4,>=5 days
+60,F,Yes,No,No,No,1 or 2,1
+25,M,No,Yes,Yes,No,3 or 4,3
+60,M,No,No,No,No,1 or 2,0
+46,F,No,No,No,No,1 or 2,0
+54,F,No,No,No,No,>=5,>=5 days
+43,F,No,No,No,No,3 or 4,0
+52,M,Yes,No,No,No,1 or 2,1
+64,F,No,No,No,No,1 or 2,3
+24,M,Yes,No,No,No,1 or 2,1
+31,F,No,No,Yes,No,1 or 2,1
+38,F,No,No,No,No,1 or 2,3
+60,F,Yes,No,Yes,No,3 or 4,3
+29,F,No,No,No,No,1 or 2,3
+35,F,No,No,No,No,1 or 2,0
+49,F,Yes,No,Yes,No,0,0
+76,F,Yes,No,Yes,No,1 or 2,3
+54,F,Yes,No,No,No,3 or 4,>=5 days
+54,F,No,No,No,No,1 or 2,0
+37,F,No,No,No,No,1 or 2,>=5 days
+53,M,Yes,No,No,No,0,0
+62,F,Yes,No,No,No,3 or 4,4
+62,F,Yes,No,Yes,Yes,0,0
+45,F,No,No,Yes,No,1 or 2,1
+57,M,Yes,No,Yes,No,3 or 4,3
+43,F,Yes,No,Yes,No,0,0
+41,M,No,No,Yes,No,Not Sure,0
+60,F,Yes,No,No,No,1 or 2,3
+59,F,No,No,No,No,0,0
+43,M,Yes,No,Yes,No,1 or 2,2
+40,F,No,No,No,No,1 or 2,1
+86,F,Yes,Yes,Yes,No,1 or 2,3
+44,F,Yes,No,Yes,No,1 or 2,>=5 days
+66,M,Yes,No,Yes,No,1 or 2,2
+28,F,No,No,Yes,No,3 or 4,>=5 days
+67,F,No,No,No,Yes,1 or 2,>=5 days
+31,F,No,No,No,No,1 or 2,4
+48,M,Yes,No,Yes,No,3 or 4,2
+40,M,Yes,No,No,No,0,0
+62,F,No,No,Yes,No,0,>=5 days
+33,F,No,No,No,No,1 or 2,3
+33,F,No,No,No,No,1 or 2,1
+26,M,No,No,No,No,0,3
+85,M,Yes,Yes,Yes,No,>=5,3
+62,F,Yes,Yes,Yes,No,3 or 4,1
+66,F,No,No,No,No,1 or 2,>=5 days
+53,F,No,No,Yes,No,3 or 4,3
+51,F,Yes,No,Yes,No,3 or 4,0
+38,F,No,No,No,No,3 or 4,>=5 days
+19,F,No,No,No,No,3 or 4,3
+77,F,Yes,No,Yes,No,1 or 2,3
+39,F,No,No,No,No,3 or 4,0
+86,F,No,No,Yes,No,1 or 2,2
+69,F,Yes,No,Yes,No,3 or 4,1
+49,F,No,No,Yes,No,1 or 2,0
+56,F,No,No,Yes,No,>=5,1
+59,F,No,Yes,Yes,No,1 or 2,1
+60,F,Yes,No,No,No,3 or 4,>=5 days
+51,M,No,No,No,No,1 or 2,1
+55,F,Yes,No,No,No,1 or 2,0
+69,M,Yes,No,Yes,Yes,>=5,3
+39,F,Yes,No,No,No,3 or 4,4
+48,M,No,No,No,Yes,0,0
+32,M,No,No,No,No,1 or 2,4
+51,F,No,No,Yes,No,1 or 2,3
+58,F,Yes,No,Yes,Yes,1 or 2,>=5 days
+35,F,No,No,No,No,1 or 2,0
+57,M,Yes,Yes,Yes,No,3 or 4,2
+32,M,No,No,No,No,1 or 2,4
+42,F,Yes,No,Yes,No,3 or 4,3
+58,M,Yes,No,Yes,No,1 or 2,2
+48,F,No,No,Yes,No,3 or 4,4
+89,F,Yes,No,Yes,No,1 or 2,4
+57,M,No,No,Yes,No,3 or 4,>=5 days
+26,F,No,No,No,No,Not Sure,0
+54,F,Yes,No,No,No,1 or 2,0
+40,F,No,No,No,No,1 or 2,2
+37,F,No,No,No,No,1 or 2,2
+47,F,Yes,No,No,No,1 or 2,1
+46,F,Yes,No,No,No,3 or 4,4
+32,F,No,No,No,No,3 or 4,3
+29,F,No,No,No,No,1 or 2,0
+37,F,Yes,No,No,No,3 or 4,3
+59,F,Yes,No,No,No,1 or 2,4
+71,F,No,No,No,No,1 or 2,3
+84,F,Yes,No,Yes,No,1 or 2,>=5 days
+30,F,No,No,No,No,1 or 2,3
+64,F,Yes,No,Yes,No,1 or 2,1
+42,F,No,No,No,No,1 or 2,>=5 days
+47,F,Yes,No,No,Yes,1 or 2,1
+49,F,Yes,No,No,No,1 or 2,1
+40,M,No,No,Yes,No,0,1
+42,F,Yes,No,No,No,3 or 4,>=5 days
+65,M,Yes,No,Yes,No,1 or 2,3
+29,F,No,No,No,No,1 or 2,2
+30,F,Yes,No,No,No,>=5,>=5 days
+31,F,Yes,No,No,No,1 or 2,1
+42,F,No,No,No,No,0,3
+61,M,Yes,No,Yes,No,1 or 2,3
+34,F,Yes,No,Yes,No,1 or 2,>=5 days
+68,M,Yes,No,No,No,>=5,2
+33,F,No,No,No,No,3 or 4,1
+36,F,Yes,No,No,No,1 or 2,3
+66,F,Yes,No,Yes,No,Not Sure,0
+58,F,Yes,No,Yes,No,1 or 2,2
+43,F,No,No,No,No,1 or 2,1
+39,F,No,No,No,No,0,2
+71,F,Yes,No,Yes,No,3 or 4,4
+24,F,No,No,No,No,1 or 2,3
+29,F,No,No,No,No,1 or 2,1
+49,M,Yes,No,No,No,1 or 2,2
+54,F,No,No,No,No,1 or 2,>=5 days
+37,F,Yes,No,No,No,1 or 2,0
+82,F,Yes,Yes,Yes,No,3 or 4,2
+60,M,Yes,No,Yes,No,1 or 2,1
+53,M,Yes,No,Yes,No,0,2
+70,F,No,No,No,No,1 or 2,>=5 days
+33,F,No,No,No,No,Not Sure,>=5 days
+68,F,Yes,No,Yes,No,3 or 4,0
+32,F,No,No,No,No,3 or 4,3
+36,F,Yes,No,No,No,Not Sure,0
+34,F,Yes,No,No,No,1 or 2,>=5 days
+52,F,Yes,Yes,No,No,1 or 2,2
+67,M,No,No,Yes,No,>=5,>=5 days
+52,F,Yes,No,Yes,No,1 or 2,>=5 days
+38,F,Yes,No,No,Yes,1 or 2,0
+68,M,Yes,Yes,Yes,No,3 or 4,0
+63,M,No,No,No,No,Not Sure,0
+42,F,Yes,No,No,No,Not Sure,2
+73,F,Yes,No,Yes,No,1 or 2,0
+61,F,Yes,No,Yes,No,3 or 4,2
+48,F,No,No,No,No,1 or 2,2
+84,F,No,No,Yes,No,1 or 2,3
+53,F,Yes,No,Yes,No,1 or 2,3
+66,F,No,No,Yes,Yes,1 or 2,2
+60,F,Yes,No,Yes,No,0,0
+62,F,Yes,No,No,No,0,0
+59,F,Yes,No,No,No,1 or 2,1
+65,F,Yes,No,Yes,No,3 or 4,3
+53,F,Yes,No,Yes,No,1 or 2,0
+58,F,No,No,Yes,No,1 or 2,0
+22,F,No,No,No,No,3 or 4,4
+27,F,No,No,No,No,3 or 4,1
+30,F,No,No,No,No,3 or 4,>=5 days
+66,F,No,No,Yes,No,1 or 2,3
+30,F,Yes,No,Yes,No,1 or 2,0
+34,F,No,No,No,No,3 or 4,1
+30,F,No,No,No,No,1 or 2,0
+27,F,No,No,No,No,0,0
+31,F,No,No,No,No,1 or 2,3
+53,F,No,No,No,No,1 or 2,2
+37,F,No,No,No,No,1 or 2,>=5 days
+57,F,No,No,Yes,No,>=5,>=5 days
+29,F,No,No,No,No,3 or 4,4
+70,M,Yes,No,No,No,1 or 2,3
+40,F,Yes,No,No,No,1 or 2,>=5 days
+27,F,No,No,No,No,3 or 4,2
+59,F,No,No,Yes,No,>=5,0
+52,F,Yes,No,Yes,No,1 or 2,0
+52,M,Yes,No,No,No,>=5,0
+64,F,Yes,No,No,No,1 or 2,0
+49,F,No,No,No,No,3 or 4,1
+35,M,No,No,No,No,1 or 2,>=5 days
+27,F,No,No,No,No,1 or 2,3
+72,F,Yes,Yes,Yes,No,1 or 2,3
+30,F,Yes,No,No,No,1 or 2,1
+43,F,No,No,No,No,3 or 4,3
+36,F,Yes,No,No,No,1 or 2,0
+32,F,No,No,No,No,1 or 2,2
+27,M,Yes,No,No,No,1 or 2,1
+49,M,No,No,Yes,No,3 or 4,3
+57,M,Yes,No,Yes,Yes,1 or 2,0
+67,F,No,No,Yes,No,3 or 4,0
+36,M,No,No,No,No,3 or 4,>=5 days
+43,F,No,No,No,No,1 or 2,3
+43,F,No,No,No,No,1 or 2,0
+52,F,No,No,Yes,No,1 or 2,0
+29,F,No,No,No,No,3 or 4,3
+31,F,No,No,No,Yes,0,0
+60,F,No,No,No,No,1 or 2,3
+67,M,No,No,No,No,3 or 4,>=5 days
+34,F,No,No,No,No,1 or 2,>=5 days
+67,M,Yes,Yes,Yes,No,1 or 2,>=5 days
+37,F,No,No,No,No,3 or 4,>=5 days
+57,F,No,No,No,No,>=5,0
+36,F,No,No,No,No,1 or 2,4
+32,F,No,No,No,No,>=5,3
+47,F,No,No,Yes,No,1 or 2,0
+49,F,Yes,No,No,Yes,1 or 2,>=5 days
+41,F,No,No,Yes,No,1 or 2,3
+33,F,Yes,No,No,No,1 or 2,3
+39,F,No,No,No,No,3 or 4,>=5 days
+34,F,Yes,No,No,No,0,0
+60,F,Yes,No,Yes,No,1 or 2,0
+38,F,No,No,Yes,No,1 or 2,2
+58,F,Yes,No,Yes,No,1 or 2,2
+56,F,Yes,No,No,No,3 or 4,>=5 days
+63,F,No,No,No,No,1 or 2,0
+64,M,Yes,No,No,No,0,0
+71,F,Yes,Yes,Yes,No,3 or 4,2
+24,F,No,No,Yes,No,1 or 2,2
+56,M,Yes,No,Yes,No,1 or 2,1
+40,F,No,No,No,No,1 or 2,3
+67,F,Yes,No,Yes,No,3 or 4,3
+36,F,No,No,No,No,>=5,2
+23,F,No,No,No,No,3 or 4,>=5 days
+40,F,Yes,No,Yes,No,1 or 2,1
+41,F,Yes,No,Yes,Yes,0,>=5 days
+48,M,Yes,No,Yes,No,Not Sure,2
+32,F,Yes,No,No,No,1 or 2,2
+69,F,No,No,No,No,>=5,4
+36,F,No,No,No,No,>=5,>=5 days
+62,M,Yes,No,Yes,Yes,0,3
+64,M,Yes,No,No,No,1 or 2,2
+58,F,Yes,No,Yes,No,1 or 2,2
+24,F,No,No,No,No,0,0
+64,M,No,No,No,No,1 or 2,Not Sure
+48,F,No,No,No,No,>=5,>=5 days
+48,M,Yes,No,No,No,1 or 2,1
+44,F,No,No,No,No,1 or 2,4
+47,F,Yes,No,Yes,No,3 or 4,2
+35,F,No,No,No,No,3 or 4,2
+36,F,No,No,No,No,1 or 2,1
+57,M,Yes,No,No,No,1 or 2,1
+60,F,Yes,No,Yes,No,1 or 2,0
+35,F,No,No,No,No,1 or 2,4
+84,M,No,No,No,No,3 or 4,2
+44,F,No,No,No,No,3 or 4,1
+27,F,No,No,No,No,1 or 2,3
+45,M,Yes,No,No,Yes,3 or 4,>=5 days
+21,F,No,No,No,No,1 or 2,0
+31,F,No,No,Yes,No,1 or 2,1
+59,F,Yes,No,Yes,No,1 or 2,4
+70,F,Yes,Yes,Yes,No,1 or 2,2
+43,F,No,No,No,No,Not Sure,0
+42,F,Unknown,Yes,Yes,No,1 or 2,1
+67,M,No,No,No,No,>=5,>=5 days
+60,M,Yes,No,Yes,Yes,1 or 2,4
+39,F,Yes,No,Yes,No,1 or 2,0
+68,M,Yes,No,Yes,No,1 or 2,1
+62,F,Yes,Yes,Yes,No,1 or 2,3
+20,F,No,No,No,No,1 or 2,3
+19,F,No,No,No,No,1 or 2,1
+22,F,No,No,No,No,3 or 4,0
+42,F,Yes,No,No,No,1 or 2,1
+55,M,Yes,No,Yes,No,1 or 2,3
+39,F,No,No,No,No,3 or 4,3
+37,F,No,No,No,No,1 or 2,0
+37,M,Yes,No,No,No,1 or 2,3
+85,F,Yes,No,Yes,No,1 or 2,2
+36,F,No,No,No,No,1 or 2,2
+49,M,No,No,No,No,0,4
+25,F,No,No,No,No,3 or 4,1
+62,M,Yes,No,Yes,No,1 or 2,3
+37,F,No,No,No,No,1 or 2,2
+50,F,Yes,No,Yes,No,1 or 2,1
+69,F,Yes,No,Yes,No,3 or 4,2
+51,F,No,No,No,No,1 or 2,Not Sure
+43,F,No,No,No,No,1 or 2,1
+37,F,No,No,No,No,1 or 2,4
+32,F,No,No,No,No,1 or 2,4
+51,F,No,No,No,No,3 or 4,3
+60,F,No,No,Yes,No,1 or 2,3
+70,F,Yes,No,No,No,>=5,3
+74,F,No,Yes,Yes,No,>=5,0
+54,F,Yes,No,No,No,1 or 2,4
+42,F,No,No,No,No,1 or 2,>=5 days
+56,F,No,No,Yes,No,1 or 2,>=5 days
+43,F,No,No,No,No,1 or 2,2
+57,F,Yes,No,Yes,No,1 or 2,4
+46,F,No,No,Yes,No,>=5,2
+49,F,No,No,No,No,3 or 4,4
+53,F,No,No,No,No,1 or 2,1
+37,M,Yes,No,No,No,1 or 2,1
+78,F,No,No,Yes,No,1 or 2,0
+50,F,No,No,Yes,No,3 or 4,3
+33,F,No,No,No,No,1 or 2,1
+72,M,Yes,No,Yes,No,1 or 2,1
+42,M,No,No,No,No,3 or 4,2
+44,F,No,No,No,No,3 or 4,1
+40,F,No,No,No,No,Not Sure,3
+64,F,No,No,Yes,No,1 or 2,1
+28,F,No,No,No,No,1 or 2,3
+65,F,No,No,Yes,No,1 or 2,2
+37,M,Yes,No,No,No,0,2
+43,F,No,No,Yes,No,1 or 2,>=5 days
+18,M,No,No,No,No,3 or 4,>=5 days
+57,F,No,Yes,No,No,1 or 2,2
+69,M,No,No,No,No,3 or 4,0
+62,F,No,No,No,No,1 or 2,2
+50,F,No,No,No,No,1 or 2,1
+49,F,Yes,No,Yes,No,1 or 2,4
+52,F,No,No,No,Yes,1 or 2,1
+29,F,No,No,No,No,1 or 2,4
+35,F,Yes,No,No,No,1 or 2,0
+55,M,No,No,No,No,1 or 2,0
+53,F,Yes,Yes,Yes,No,1 or 2,3
+65,F,No,No,No,No,1 or 2,3
+66,M,Yes,Yes,No,No,3 or 4,>=5 days
+34,F,No,No,No,No,1 or 2,3
+51,M,Yes,No,No,No,3 or 4,>=5 days
+59,M,Yes,Yes,Yes,No,1 or 2,0
+38,F,No,No,Yes,No,1 or 2,0
+30,F,No,No,No,Yes,3 or 4,0
+53,F,No,No,Yes,No,0,0
+75,F,Yes,No,Yes,No,3 or 4,4
+34,F,No,Yes,No,Yes,1 or 2,0
+54,M,Yes,No,Yes,No,1 or 2,>=5 days
+58,F,Yes,No,Yes,No,3 or 4,2
+34,F,No,No,No,No,1 or 2,2
+58,M,Yes,No,No,No,1 or 2,3
+75,F,Yes,Yes,Yes,No,3 or 4,0
+59,F,No,No,No,No,1 or 2,1
+76,F,Yes,No,Yes,No,1 or 2,>=5 days
+52,M,Yes,No,No,No,>=5,3
+35,F,No,No,No,No,1 or 2,1
+62,F,Yes,No,No,No,1 or 2,4
+55,F,No,No,Yes,No,1 or 2,2
+23,F,No,No,No,No,3 or 4,>=5 days
+27,F,No,No,No,No,1 or 2,0
+34,F,Yes,No,Yes,No,1 or 2,1
+56,F,Yes,No,No,No,1 or 2,1
+55,M,Yes,No,Yes,No,1 or 2,1
+45,F,No,No,No,No,3 or 4,0
+61,F,No,No,Yes,No,1 or 2,0
+67,F,No,No,Yes,No,1 or 2,1
+39,F,No,No,Yes,No,>=5,0
+56,F,Yes,No,Yes,No,1 or 2,3
+46,F,No,No,No,No,1 or 2,>=5 days
+41,F,No,No,No,No,3 or 4,2
+20,F,No,No,No,No,1 or 2,0
+30,F,No,No,No,No,1 or 2,3
+62,F,No,No,No,No,3 or 4,3
+37,F,Yes,No,No,No,1 or 2,2
+36,M,Yes,No,No,No,1 or 2,0
+77,F,No,No,Yes,No,1 or 2,0
+75,F,No,No,No,No,>=5,>=5 days
+38,F,Yes,No,No,No,3 or 4,4
+36,F,No,No,No,No,3 or 4,3
+80,F,No,Yes,Yes,No,3 or 4,1
+51,F,No,No,No,Yes,1 or 2,3
+21,F,No,No,No,No,>=5,3
+27,F,No,No,No,No,1 or 2,0
+49,M,Yes,No,Yes,No,1 or 2,0
+42,F,No,No,No,No,1 or 2,2
+62,F,Yes,No,No,No,3 or 4,1
+45,F,No,No,No,No,1 or 2,0
+31,F,No,No,No,No,1 or 2,2
+53,F,Yes,No,Yes,No,1 or 2,0
+57,F,No,No,Yes,No,3 or 4,>=5 days
+25,F,No,No,No,No,>=5,2
+37,F,No,No,No,No,0,0
+58,F,Yes,No,Yes,No,1 or 2,3
+51,F,No,No,Yes,No,1 or 2,1
+62,M,No,No,No,No,1 or 2,>=5 days
+84,M,No,No,No,No,3 or 4,3
+93,M,Yes,No,No,No,1 or 2,>=5 days
+44,F,No,No,No,No,1 or 2,2
+68,F,Yes,No,Yes,No,1 or 2,2
+48,M,Yes,No,No,No,1 or 2,2
+51,M,No,No,No,No,1 or 2,1
+51,M,Yes,No,Yes,No,1 or 2,0
+63,F,No,No,Yes,No,>=5,2
+72,M,No,Yes,Yes,No,1 or 2,0
+36,M,Yes,Yes,Yes,No,3 or 4,3
+50,M,Yes,No,Yes,No,0,3
+47,F,Yes,No,No,No,1 or 2,1
+77,F,No,Yes,Yes,No,3 or 4,>=5 days
+46,F,Yes,No,Yes,No,1 or 2,2
+46,F,No,No,No,No,1 or 2,1
+34,F,Yes,No,No,No,1 or 2,2
+55,M,Yes,No,No,No,1 or 2,1
+63,F,Yes,No,Yes,No,3 or 4,>=5 days
+37,F,No,No,No,No,3 or 4,0
+34,F,No,No,Yes,No,1 or 2,2
+37,F,No,No,No,No,3 or 4,3
+46,F,No,No,No,No,1 or 2,1
+47,F,No,No,No,No,1 or 2,0
+36,F,No,No,No,No,3 or 4,4
+43,F,Yes,No,Yes,No,1 or 2,2
+48,M,Yes,No,No,No,1 or 2,3
+30,F,Yes,No,No,No,1 or 2,0
+57,M,No,No,No,No,1 or 2,1
+40,F,No,No,No,No,1 or 2,>=5 days
+53,F,Yes,No,Yes,No,1 or 2,0
+47,F,Yes,No,No,No,1 or 2,>=5 days
+62,F,Yes,No,No,No,1 or 2,0
+41,F,Yes,No,No,Yes,1 or 2,0
+54,F,Yes,No,Yes,No,3 or 4,0
+35,F,No,No,No,No,1 or 2,1
+60,M,No,No,No,No,Not Sure,Not Sure
+22,F,No,No,No,No,1 or 2,3
+63,M,Yes,No,No,No,1 or 2,>=5 days
+60,F,Yes,Yes,Yes,No,1 or 2,1
+76,F,Yes,No,Yes,No,1 or 2,3
+32,M,No,No,No,No,1 or 2,>=5 days
+36,F,No,No,No,No,1 or 2,0
+55,F,No,No,Yes,No,1 or 2,2
+51,F,No,No,Yes,No,1 or 2,4
+73,M,No,No,Yes,No,3 or 4,2
+55,F,Yes,No,No,No,>=5,3
+52,M,Yes,No,No,No,1 or 2,>=5 days
+65,F,Yes,No,No,No,1 or 2,0
+40,F,No,No,No,No,1 or 2,0
+33,F,No,No,No,No,1 or 2,1
+25,F,No,No,No,No,1 or 2,0
+64,F,No,No,No,No,0,>=5 days
+48,F,Yes,No,No,No,1 or 2,2
+35,F,No,No,No,No,1 or 2,3
+42,M,Yes,No,No,Yes,1 or 2,3
+26,F,No,No,No,No,1 or 2,>=5 days
+48,F,No,No,No,No,1 or 2,2
+52,F,Yes,No,Yes,No,1 or 2,4
+52,F,No,No,No,Yes,1 or 2,2
+43,F,Yes,No,No,No,1 or 2,0
+52,F,No,No,No,No,3 or 4,0
+71,M,Yes,Yes,Yes,No,3 or 4,2
+65,F,No,Yes,No,No,3 or 4,4
+44,F,No,No,No,No,0,0
+46,F,Yes,No,Yes,No,1 or 2,0
+36,F,No,No,No,No,1 or 2,0
+60,F,No,No,No,No,1 or 2,4
+36,M,No,No,No,No,3 or 4,1
+54,F,Yes,No,No,No,1 or 2,0
+46,F,Yes,No,No,No,1 or 2,1
+71,F,No,No,No,No,3 or 4,3
+79,F,No,No,Yes,No,3 or 4,1
+63,M,No,No,No,No,1 or 2,1
+40,F,No,No,No,No,3 or 4,2
+42,M,No,No,No,Yes,1 or 2,3
+59,M,Yes,No,No,No,1 or 2,1
+50,F,No,No,Yes,No,3 or 4,>=5 days
+37,F,No,No,No,No,1 or 2,0
+30,F,No,No,No,No,1 or 2,0
+61,F,No,No,No,No,3 or 4,0
+56,F,Yes,No,Yes,No,3 or 4,>=5 days
+54,F,Yes,No,Yes,Yes,1 or 2,0
+50,M,No,No,No,No,3 or 4,2
+51,F,Yes,No,Yes,No,1 or 2,1
+51,F,No,No,No,No,1 or 2,2
+48,F,Yes,No,No,No,3 or 4,2
+31,F,No,No,No,No,1 or 2,0
+60,F,Yes,No,No,No,3 or 4,>=5 days
+61,F,Yes,Yes,Yes,No,1 or 2,>=5 days
+37,F,No,No,No,No,1 or 2,>=5 days
+73,F,Yes,Yes,Yes,No,1 or 2,0
+65,M,Yes,No,No,No,1 or 2,>=5 days
+52,F,Yes,Yes,Yes,No,1 or 2,3
+75,F,Yes,Yes,Yes,No,1 or 2,3
+66,F,Yes,Yes,Yes,No,1 or 2,2
+68,F,Yes,No,No,No,1 or 2,0
+53,F,No,No,No,Yes,3 or 4,>=5 days
+64,M,Yes,No,Yes,No,1 or 2,1
+38,F,No,No,No,No,3 or 4,1
+45,F,No,No,No,No,3 or 4,0
+64,F,Yes,No,Yes,No,3 or 4,0
+66,F,No,Yes,Yes,No,3 or 4,3
+55,F,Yes,No,No,No,3 or 4,>=5 days
+42,F,Yes,No,Yes,No,1 or 2,>=5 days
+56,F,No,No,No,No,3 or 4,4
+23,M,Yes,No,Yes,No,3 or 4,2
+53,M,Yes,No,No,No,3 or 4,>=5 days
+66,F,Yes,No,Yes,Yes,1 or 2,2
+36,F,No,No,No,No,1 or 2,0
+42,M,Yes,No,No,No,>=5,2
+80,F,Yes,No,Yes,No,1 or 2,2
+51,F,Yes,No,Yes,No,1 or 2,3
+67,F,Yes,No,Yes,No,1 or 2,1
+69,F,Yes,No,Yes,No,1 or 2,2
+37,F,No,No,No,No,1 or 2,>=5 days
+64,M,No,No,Yes,No,3 or 4,0
+43,F,No,No,No,No,1 or 2,2
+40,F,No,No,No,No,3 or 4,2
+51,F,Yes,No,Yes,No,1 or 2,0
+59,F,No,No,No,No,1 or 2,1
+49,M,No,No,Yes,No,3 or 4,4
+53,F,Yes,No,Yes,No,3 or 4,1
+54,F,Yes,No,Yes,No,1 or 2,1
+24,F,No,No,No,No,3 or 4,1
+22,F,No,No,No,No,1 or 2,1
+41,F,No,No,No,No,1 or 2,>=5 days
+91,F,No,No,Yes,No,3 or 4,>=5 days
+60,M,Yes,No,No,Yes,1 or 2,1
+35,F,No,No,Yes,No,>=5,3
+65,F,Yes,No,No,No,3 or 4,1
+82,M,Yes,No,Yes,No,1 or 2,>=5 days
+49,M,Yes,No,No,No,1 or 2,2
+58,M,Yes,No,Yes,Yes,Not Sure,2
+40,F,No,No,No,No,>=5,4
+41,F,No,No,No,No,1 or 2,2
+41,F,No,No,No,No,0,0
+55,F,Yes,No,Yes,No,>=5,0
+37,F,No,No,No,No,1 or 2,>=5 days
+42,F,No,No,No,No,>=5,0
+73,M,Yes,No,Yes,No,3 or 4,4
+50,M,Yes,Yes,Yes,Yes,1 or 2,0
+30,F,No,No,No,No,1 or 2,1
+56,F,No,Yes,Yes,No,3 or 4,1
+66,M,Yes,No,Yes,No,0,0
+30,F,No,No,Yes,No,3 or 4,0
+66,F,No,No,No,No,3 or 4,4
+25,F,No,No,No,No,1 or 2,1
+61,F,Yes,No,No,No,1 or 2,2
+63,F,Yes,No,Yes,No,1 or 2,0
+43,F,No,No,No,No,1 or 2,4
+37,F,No,No,No,No,3 or 4,0
+58,F,Yes,No,No,No,1 or 2,4
+65,F,Yes,Yes,Yes,No,1 or 2,1
+28,F,Unknown,No,No,Yes,3 or 4,3
+33,F,No,No,Yes,No,1 or 2,1
+72,M,No,No,Yes,No,0,3
+57,F,Yes,No,Yes,No,3 or 4,3
+40,F,Yes,No,Yes,No,1 or 2,0
+60,F,Yes,No,No,No,3 or 4,3
+37,F,No,No,No,No,1 or 2,>=5 days
+34,F,Yes,No,No,No,3 or 4,0
+67,F,No,No,No,No,1 or 2,>=5 days
+60,M,Yes,No,Yes,No,1 or 2,>=5 days
+67,F,No,No,No,No,1 or 2,1
+68,M,No,No,No,No,>=5,0
+57,F,No,No,Yes,Yes,1 or 2,0
+68,F,Yes,Yes,Yes,No,>=5,>=5 days
+65,F,No,No,No,No,1 or 2,2
+31,F,No,No,No,No,1 or 2,2
+31,F,Yes,No,No,No,1 or 2,1
+61,M,No,No,No,Yes,1 or 2,0
+45,F,No,No,No,No,3 or 4,2
+71,F,Yes,No,Yes,No,Not Sure,0
+45,F,No,No,Yes,No,1 or 2,2
+34,F,No,No,No,No,1 or 2,0
+35,F,No,No,No,No,1 or 2,>=5 days
+85,F,Yes,Yes,Yes,No,1 or 2,2
+79,F,No,Yes,Yes,No,1 or 2,2
+45,F,No,No,Yes,No,1 or 2,2
+72,F,Yes,No,Yes,No,1 or 2,3
+52,F,Yes,No,No,No,1 or 2,2
+58,F,Yes,No,No,No,>=5,3
+54,F,Yes,No,No,No,1 or 2,0
+34,F,No,No,No,No,1 or 2,0
+45,M,Yes,No,Yes,No,1 or 2,4
+56,F,Yes,No,Yes,No,1 or 2,4
+37,F,Yes,No,No,No,1 or 2,1
+43,M,Yes,No,No,No,1 or 2,0
+56,M,Yes,Yes,Yes,No,1 or 2,3
+56,M,Yes,No,Yes,No,1 or 2,1
+75,F,Yes,No,Yes,No,1 or 2,>=5 days
+61,F,Yes,No,Yes,No,3 or 4,2
+55,F,Yes,No,Yes,No,1 or 2,0
+52,M,Yes,No,Yes,Yes,>=5,2
+57,F,No,No,Yes,No,1 or 2,0
+64,M,Yes,No,Yes,No,3 or 4,2
+58,F,Yes,No,Yes,Yes,3 or 4,4
+44,F,No,No,No,No,1 or 2,4
+64,M,Yes,No,No,Yes,1 or 2,1
+68,M,Yes,Yes,Yes,No,3 or 4,0
+39,F,Yes,No,Yes,No,>=5,4
+58,F,Yes,No,Yes,Yes,1 or 2,0
+67,F,No,No,No,No,3 or 4,3
+60,F,Yes,No,No,No,Not Sure,1
+69,F,Yes,No,No,No,1 or 2,0
+58,F,No,No,Yes,No,1 or 2,2
+38,F,No,Yes,No,No,1 or 2,1
+30,F,No,No,No,No,1 or 2,0
+34,F,Yes,No,No,No,1 or 2,0
+49,F,No,No,No,No,1 or 2,2
+31,F,No,No,No,No,1 or 2,1
+28,F,No,No,No,No,1 or 2,3
+55,M,No,No,Yes,No,1 or 2,>=5 days
+60,F,Yes,No,No,No,1 or 2,2
+42,F,No,No,No,No,>=5,4
+23,F,No,No,No,No,1 or 2,1
+65,M,No,No,Yes,No,1 or 2,1
+45,M,No,No,No,No,1 or 2,0
+65,F,No,No,Yes,No,1 or 2,3
+26,F,No,No,No,No,1 or 2,2
+36,F,No,No,No,No,1 or 2,2
+30,F,No,No,No,No,1 or 2,0
+68,F,No,No,Yes,No,1 or 2,1
+57,M,Yes,Yes,Yes,No,1 or 2,>=5 days
+84,M,No,No,No,No,3 or 4,2
+39,F,No,No,No,No,1 or 2,>=5 days
+46,F,No,No,No,No,3 or 4,>=5 days
+40,F,Yes,No,No,No,1 or 2,3
+30,F,No,No,No,No,1 or 2,1
+55,F,Yes,No,No,No,1 or 2,4
+82,F,Yes,Yes,Yes,No,>=5,2
+46,F,Yes,No,No,No,1 or 2,4
+70,F,No,No,No,No,3 or 4,0
+65,M,No,No,Yes,No,1 or 2,3
+28,F,No,Yes,Yes,No,3 or 4,2
+34,F,No,No,No,No,1 or 2,1
+35,F,No,No,Yes,No,1 or 2,1
+38,F,Yes,No,No,No,1 or 2,3
+66,M,Yes,Yes,Yes,No,1 or 2,2
+50,F,No,No,Yes,No,3 or 4,3
+25,F,No,No,No,No,3 or 4,3
+58,F,Yes,No,No,No,1 or 2,2
+46,F,No,No,Yes,No,1 or 2,3
+49,F,Yes,No,No,No,1 or 2,2
+33,F,No,No,No,No,1 or 2,2
+74,F,No,No,Yes,No,3 or 4,>=5 days
+25,M,No,No,No,No,3 or 4,1
+62,F,No,No,No,No,3 or 4,2
+49,M,Yes,No,Yes,No,1 or 2,1
+34,F,No,No,No,No,0,0
+37,F,No,Yes,No,No,3 or 4,>=5 days
+40,F,No,No,No,No,1 or 2,3
+44,F,No,No,Yes,No,3 or 4,3
+30,F,No,No,No,No,1 or 2,2
+76,F,No,No,No,No,1 or 2,>=5 days
+51,M,Yes,No,Yes,No,1 or 2,0
+30,F,No,No,No,No,1 or 2,1
+40,M,No,No,No,Yes,1 or 2,>=5 days
+22,F,No,No,No,No,1 or 2,0
+50,F,No,No,No,No,1 or 2,2
+57,F,Yes,No,Yes,No,3 or 4,4
+60,F,Yes,No,Yes,No,1 or 2,0
+66,M,Yes,No,No,No,1 or 2,>=5 days
+85,F,Yes,No,No,No,1 or 2,3
+44,F,No,No,No,No,1 or 2,0
+71,F,Yes,No,No,No,1 or 2,4
+33,M,No,No,No,No,1 or 2,1
+67,F,Yes,No,Yes,Yes,1 or 2,3
+71,F,No,Yes,Yes,No,1 or 2,2
+59,F,Yes,No,Yes,No,3 or 4,3
+78,F,Yes,No,Yes,No,1 or 2,0
+38,F,No,No,No,No,1 or 2,>=5 days
+57,F,No,No,No,No,>=5,>=5 days
+62,F,No,No,No,No,1 or 2,1
+26,F,No,No,No,No,1 or 2,2
+50,F,Yes,No,No,No,1 or 2,>=5 days
+69,F,Yes,Yes,Yes,No,3 or 4,4
+50,F,Yes,No,Yes,No,1 or 2,2
+72,F,Yes,No,Yes,No,1 or 2,0
+37,M,No,No,No,No,1 or 2,2
+45,M,Yes,Yes,Yes,No,1 or 2,0
+56,F,Yes,No,No,No,1 or 2,1
+33,F,No,No,No,Yes,1 or 2,2
+66,F,Yes,No,Yes,No,1 or 2,0
+53,F,No,No,No,No,0,1
+38,F,Yes,No,No,No,3 or 4,4
+61,F,Yes,No,Yes,No,1 or 2,0
+38,M,No,No,No,No,1 or 2,0
+54,F,Yes,No,Yes,No,3 or 4,1
+82,F,Yes,No,Yes,No,1 or 2,2
+45,F,No,No,No,No,1 or 2,1
+23,F,Yes,No,No,No,3 or 4,>=5 days
+82,M,Yes,No,Yes,No,1 or 2,>=5 days
+59,M,Yes,No,No,No,0,4
+59,M,No,No,Yes,No,1 or 2,4
+40,F,No,No,No,No,3 or 4,4
+21,F,No,No,No,No,>=5,0
+32,F,Yes,No,No,No,1 or 2,4
+34,F,No,No,No,No,1 or 2,0
+33,F,Yes,No,No,No,1 or 2,2
+58,M,Yes,No,Yes,Yes,Not Sure,2
+36,F,No,No,No,No,3 or 4,3
+33,F,No,No,Yes,No,3 or 4,0
+40,F,No,No,Yes,No,>=5,0
+30,F,Yes,No,No,No,1 or 2,>=5 days
+51,F,Unknown,No,No,No,1 or 2,3
+32,F,No,No,No,No,1 or 2,>=5 days
+37,F,No,No,Yes,No,3 or 4,4
+67,M,Yes,No,No,No,3 or 4,3
+44,F,No,No,No,No,1 or 2,0
+36,F,No,No,No,No,1 or 2,>=5 days
+50,F,Yes,No,No,No,3 or 4,3
+46,F,Yes,No,No,No,1 or 2,>=5 days
+47,M,No,Yes,Yes,Yes,1 or 2,1
+59,F,Yes,No,Yes,No,1 or 2,0
+38,F,Yes,No,Yes,No,1 or 2,3
+43,F,No,No,No,No,1 or 2,>=5 days
+41,M,Yes,No,No,No,3 or 4,2
+27,F,Yes,No,No,No,3 or 4,3
+58,F,No,No,No,No,1 or 2,1
